@@ -18,6 +18,9 @@ fun main(args: Array<String>) {
      * == operator controls where variable's attributes are equivalent or not.
      */
 
+    val (name,isMobile,isWeb,date)=myJavaVariable
+
+
 
 
 }
